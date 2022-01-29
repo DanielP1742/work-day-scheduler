@@ -15,7 +15,7 @@ I feel like this project does all that is is meant to do, but I could not figure
 
 
 # Link to App:
-<a href=>Git Page</a>
+<a href="https://danielp1742.github.io/work-day-scheduler/">Git Page</a>
 
 # Screen Shot of App:
-![Image-of-Main-Page](./assests/images/Screen-Shot.png)
+![Image-of-Main-Page](./assets/images/Screen-Shot.png)
